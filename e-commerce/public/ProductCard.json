@@ -1,0 +1,51 @@
+[
+    {
+        "name" : "iphone 14",
+        "price" : "95,000",
+        "Detail": "Created By Apple",
+        "image" :"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204"
+    },
+    {
+        "name" : "ASUS ROG Strix G17",
+        "price" : "1,21,000",
+        "Detail": "ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W",
+        "image" :"https://m.media-amazon.com/images/I/61bwqXfWiaL._SL1500_.jpg"
+    },
+    {
+        "name" : "MOKOBARA The Transit Backpack",
+        "price" : "9,999",
+        "Detail": "MOKOBARA The Transit Backpack Laptop Bag for Men and Women",
+        "image" :"https://m.media-amazon.com/images/I/71Esqu3tVzL._UX679_.jpg"
+    },
+    {
+        "name" : "Noise Buds VS402",
+        "price" : "3,999",
+        "Detail": "Noise Buds VS402 Truly Wireless in Ear Earbuds, 35-Hours of Playtime, Instacharge, Quad Mic with ENC, Hyper Sync, Low Latency, 10mm Driver, Bluetooth v5.3 and Breathing LED Lights (Neon Black)",
+        "image" :"https://m.media-amazon.com/images/I/51JXkQwDd7L._SX522_.jpg"
+    },
+    {
+        "name" : "Redgear Pro Wireless Gamepad",
+        "price" : "3,999",
+        "Detail": "Redgear Pro Wireless Gamepad with 2.4GHz Wireless Technology, Integrated Dual Intensity Motor, Illuminated Keys for PC(Compatible with Windows 7/8/8.1/10 only)",
+        "image" :"https://m.media-amazon.com/images/I/51fCmfd8CML._SL1000_.jpg"
+    },
+    {
+        "name" : "Cosmic Byte Equinox Phobos",
+        "price" : "5,999",
+        "Detail": "Cosmic Byte Equinox Phobos 7.1 RGB Dual Input USB/3.5mm Gaming Headset with Detachable Microphone for PC, Laptop, Mobiles, PS4, PS5, Xbox with Carrying case and Software (Black)",
+        "image" :"https://m.media-amazon.com/images/I/71temJ1iB4L._SX569_.jpg"
+    },
+    {
+        "name" : "Cosmic Byte Kilonova",
+        "price" : "2,299",
+        "Detail": "Cosmic Byte Kilonova 3325IC RGB Wired Gaming Mouse with Pixart 3325 Sensor, Ultra Lightweight 73grams, Adjustable Weights, Paracord Cable, Replaceable Top Cover and Side Buttons (Black)",
+        "image" :"https://m.media-amazon.com/images/I/51NYpXjtR2L._SL1500_.jpg"
+    },
+    {
+        "name" : "Logitech G29 Driving Force Racing Wheel",
+        "price" : "36,999",
+        "Detail": "Logitech G29 Driving Force Racing Wheel and Floor Pedals, Real Force, Stainless Steel Paddle Shifters, Leather Steering Wheel Cover, Adjustable Floor Pedals, PS5/PS4/PS3/PC/Mac – Black",
+        "image" :"https://m.media-amazon.com/images/I/61IYYoZ66VL._SL1500_.jpg"
+    }
+
+]
